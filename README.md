@@ -54,10 +54,10 @@ A dynamic npm module that helps developers generate professional folder structur
 **Planned Expansion**:  
 - Adding support for **Go**, **Spring**, and **Vue** to make Quick Struc even more versatile for developers working with various tech stacks. 🚀  
 
-### 🔹 [Job Seeker](#)  
+### 🔹 [Job Seeker](https://github.com/CodeWithJagdeep/Job-search-portal)  
 A web app built using **MySQL** and **PHP**, designed to streamline job searches and application tracking.  
 
-### 🔹 [Discord Bot (Quick Struc)]([](https://github.com/CodeWithJagdeep/obu_discordBot))  
+### 🔹 [Discord Bot](https://github.com/CodeWithJagdeep/obu_discordBot)  
 A feature-rich Discord bot written in **JavaScript**, with:  
 - Random meme generation for meme channels.  
 - Welcoming new users to the server.  
@@ -65,13 +65,13 @@ A feature-rich Discord bot written in **JavaScript**, with:
 - Fun mini-games like an **Among Us**-style game.  
 - GIF responses for user actions like "kick."  
 
-### 🔹 [Gaintrack](#)  
+### 🔹 [Gaintrack](https://github.com/CodeWithJagdeep/gaintrack)  
 A project focused on tracking and optimizing business performance metrics.  
 
-### 🔹 [Blurr](#)  
+### 🔹 [Blurr](https://github.com/CodeWithJagdeep/blurr)  
 An AI/ML-powered project utilizing advanced computer vision and NLP techniques.  
 
-### 🔹 [AI-Powered Web Scraper](#)  
+### 🔹 [AI-Powered Web Scraper](https://github.com/CodeWithJagdeep/FFTBot)  
 A bot for **free4talk** that dynamically scrapes responses using **Puppeteer** and replies to user queries in real-time.  
 
 ---
