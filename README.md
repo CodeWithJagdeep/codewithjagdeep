@@ -57,7 +57,7 @@ A dynamic npm module that helps developers generate professional folder structur
 ### 🔹 [Job Seeker](#)  
 A web app built using **MySQL** and **PHP**, designed to streamline job searches and application tracking.  
 
-### 🔹 [Discord Bot (Quick Struc)](#)  
+### 🔹 [Discord Bot (Quick Struc)]([](https://github.com/CodeWithJagdeep/obu_discordBot))  
 A feature-rich Discord bot written in **JavaScript**, with:  
 - Random meme generation for meme channels.  
 - Welcoming new users to the server.  
