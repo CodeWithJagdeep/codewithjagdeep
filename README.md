@@ -48,7 +48,7 @@ Hi there! 👋 I'm **Jagdeep Singh**, a passionate software developer with exper
 
 ## 🌟 Featured Projects  
 
-### 🔹 [Quick Struc](https://github.com/CodeWithJagdeep/Quick-Struc)  
+### 🔹 [Quick Struc](https://github.com/CodeWithJagdeep/QuickStruc)  
 A dynamic npm module that helps developers generate professional folder structures and boilerplate code for JavaScript and Node.js projects.  
 
 **Planned Expansion**:  
