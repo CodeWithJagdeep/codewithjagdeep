@@ -88,4 +88,3 @@ I am a creative problem-solver who thrives on challenging projects. Whether it's
 ## 📫 Let's Connect!  
 
 - **GitHub**: [@WorkwithJagdeep](https://github.com/WorkwithJagdeep)  
-- **LinkedIn**: [Jagdeep Singh](https://linkedin.com/in/jagdeep56)  )  
