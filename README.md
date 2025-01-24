@@ -1,7 +1,6 @@
 # 💻 Jagdeep Singh | Software Developer  
 
 📧 **Email**: [Jagdeepsnh57@gmail.com](mailto:Jagdeepsnh57@gmail.com)  
-🔗 **LinkedIn**: [Jagdeep Singh](https://linkedin.com/in/jagdeep56)  
 
 Hi there! 👋 I'm **Jagdeep Singh**, a passionate software developer with expertise in designing, developing, and deploying scalable, high-performance applications. With a strong foundation in programming and a keen interest in open-source contributions, I love creating tools and solutions that simplify development for others. 🚀  
 
